@@ -24,7 +24,7 @@ In this analysis, four models were compared based on their training time, traini
 ## Jupyter Notebook
 The complete analysis can be found in the Jupyter notebook located in the `notebook` directory.
 
-- [Analysis Notebook](notebook/analysis.ipynb)
+- [Analysis Notebook](prompt_III.ipynb)
 
 ## Data
 The dataset used for this analysis is located in the `data` directory.
